@@ -8,4 +8,5 @@ The **completed** Unity projects for each example can be found in their own repo
 3. https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-03-carrying-key-icon
 4. https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-04-multiple-items-multiple-icons
 5. https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-05-resizeTiledImage
+6. https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-06-listOfPickupObjects
 
