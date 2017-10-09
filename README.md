@@ -17,4 +17,3 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-07d-auto-grid-size-for-number-slots
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-08-listOfPickupObjects
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch03-09-dictionaryOfEnumPickups
-
